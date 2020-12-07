@@ -1,4 +1,4 @@
-package org.ikinsure.medium.converter;
+package org.ikinsure.converter;
 
 import java.util.Scanner;
 
